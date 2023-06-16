@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c583f235.css",
+    "main.js": "/static/js/main.aa3dafcb.js",
+    "static/js/787.82ea8e80.chunk.js": "/static/js/787.82ea8e80.chunk.js",
+    "index.html": "/index.html",
+    "static/media/kisrea.svg": "/static/media/kisrea.fcae82bf4a129dda953da35069bc3d74.svg",
+    "main.c583f235.css.map": "/static/css/main.c583f235.css.map",
+    "main.aa3dafcb.js.map": "/static/js/main.aa3dafcb.js.map",
+    "787.82ea8e80.chunk.js.map": "/static/js/787.82ea8e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c583f235.css",
+    "static/js/main.aa3dafcb.js"
+  ]
+}
